@@ -1,7 +1,6 @@
-package types-wasm-go-plugin
+package types
 
 type OtoroshiResponse struct {
 	Name  string
 	Color string
-}
-
+};
